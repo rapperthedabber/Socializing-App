@@ -20,7 +20,7 @@ This application uses MongoDB and Mongoose to create a social media api. Users c
   * [Link](#Link)
 
   # Installation
-  npm install, node.js, mySQL2, nodemon, MongoDB, Mongoose
+  npm install, node.js,nodemon, MongoDB, Mongoose
   
   # Usage
 
